@@ -15,7 +15,7 @@
 
 ## 📋 Sobre
 
-<p align="justify">Esse trabalho de visualização de dados, cujo título é Violência Doméstica em Pernambuco (PE), foi realizado utilizando os dados brutos disponibilizados pela Secretaria de Defesa Social (SDS) do estado de Pernambuco sobre violência doméstica, apurados entre janeiro de 2015 a agosto de 2022. Nesse projeto tivemos como objetivo explorar a visualização dos dados de modo analítico, onde dividimos em subconjuntos os dados de interesse para melhor análise e compreensão.</p>
+<p align="justify">Esse trabalho de visualização de dados, cujo título é Violência Doméstica em Pernambuco (PE), foi realizado utilizando os <a href="https://www.sds.pe.gov.br/estatisticas/40-estatisticas/178-violencia-domestica-e-familiar-contra-a-mulher">dados brutos disponibilizados pela Secretaria de Defesa Social (SDS) do estado de Pernambuco sobre violência doméstica</a>, apurados entre janeiro de 2015 a agosto de 2022. Nesse projeto tivemos como objetivo explorar a visualização dos dados de modo analítico, onde dividimos em subconjuntos os dados de interesse para melhor análise e compreensão.</p>
 
 <p align="justify">Para a visualização dos dados desse dataset, foi necessário realizar o tratamento dos dados, processar e filtrar as informações mais importante desse tema.</p>
 
