@@ -57,6 +57,16 @@ pip install pandas
 pip install statsmodels
 ```
 
+## 📂 Estrutura de diretórios
+
+```
+├── Data
+|  └── MICRODADOS_DE_VIOLÊNCIA_DOMÉSTICA_JAN_2015_A_AGO_2022.xlsx
+├── README.md
+└── analises
+   └── teste_violencia.ipynb
+```
+
 ## 🚀 Executando
 
 Para executar o projeto, após as bibliotecas instaladas, no Visual Studio Code clique em "Executar Tudo" na parte superior da interface, dentro do notebook em 
