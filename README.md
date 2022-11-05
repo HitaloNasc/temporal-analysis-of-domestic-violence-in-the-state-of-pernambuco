@@ -1,7 +1,12 @@
+<p align="center">
+  <img align="center" src='https://user-images.githubusercontent.com/54161035/200095500-d5fec4ba-c97e-4f19-9e39-6764418a736b.png' />
+</p>
+<p align="center">UNIVERSIDADE FEDERAL DE PERNAMBUCO-UFPE</p>
+<p align="center">CENTRO DE INFORMÁTICA</p>
+
+##
+
 # Violência Doméstica em Pernambuco - Análise temporal
-
-## Colaboradores
-
 
 ## Sobre
 
@@ -12,3 +17,12 @@
 ## Resumo
 
 <p align="justify">Neste estudo foi identificada a predominância de casos com as seguintes características: sexo feminino, faixa etária de 35-64 anos, natureza “Ameaça por violência doméstica/familiar” e total de envolvidos 1. Ademais, o ano de 2019 apresentou maior número de ocorrências, seguido de 2020 e 2021, respectivamente. Quanto aos meses, o mês de janeiro apresentou maior incidência de casos, seguido dos meses de  março e agosto, respectivamente. A região Metropolitana apresentou maior número de ocorrências, seguida da região Agreste. A cidade do Recife, compreendida nos dados como a região Capital, apresentou a nível de município o maior número de casos. Portanto, concluímos que  a violência doméstica, infelizmente, atinge na grande maioria dos casos as mulheres, sendo essa uma problemática com extrema urgência em solucionar a fim de tornar a sociedade mais justa e igualitária.</p>
+
+## Tecnologias utilizadas
+
+- Python 3
+- Jupyter Notebook
+- OpenPyXL
+- Pandas
+- Matplotlib
+- StatsModels
